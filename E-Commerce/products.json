@@ -1,0 +1,16 @@
+{
+    "1": {
+        "name": "BOAT Airdops",
+        "description": "Wireless earphone with long live battery",
+        "price": 899.99,
+        "stock": 28,
+        "category": "electronics"
+    },
+    "2": {
+        "name": "Noise",
+        "description": "Watch",
+        "price": 1999.0,
+        "stock": 30,
+        "category": "electronics"
+    }
+}
